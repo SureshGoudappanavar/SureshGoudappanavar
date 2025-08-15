@@ -18,8 +18,6 @@
 ### 🔥 Meet Suresh.js
 
 ## 🔥 Meet `suresh.json`
-
-```jsonc
 {
   "name": "🚀 Suresh Goudappanavar",
   "role": ["💻 Full-Stack Developer", "⚡ Tech Enthusiast", "🎯 Lifelong Learner"],
