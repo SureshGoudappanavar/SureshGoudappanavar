@@ -17,7 +17,6 @@
 
 ---
 
-### 🔥 Meet Suresh.js
 
 ## 🔥 Meet `suresh.json`
 {
@@ -35,13 +34,6 @@
 
 ---
 
-### 🧠 What I’m Working On
-- 🚑 *QuikAid* – First aid app for instant help in injuries  
-- 🤖 *Jetson Nano* – Real-time Semaphore Decoder  
-- 🧮 *Kaggle ML Datasets* – New drops every Saturday  
-- 🛠 *Tech Agency* – Web + AI solutions with the squad  
-
----
 
 ### 📈 GitHub Stats
 
@@ -61,7 +53,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,javascript,python,linux,git,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,javascript,python,git,vscode,firebase,Cloudinary" />
 </p>
 
 ---
@@ -97,7 +89,7 @@
 
 ### ✨ Let's Build Together
 
-> 💬 Looking to *collab* on MERN apps, ML tools, or content ideas?  
+> 💬 Looking to *collab* on MERN apps, or content ideas?  
 > 📩 DMs are open. Email me: devprahulmirji@gmail.com  
 > 🌍 Projects → [github.com/RahulMirji](https://github.com/RahulMirji)
 
