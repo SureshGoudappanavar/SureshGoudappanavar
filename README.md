@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Suresh Goudappanavar– Full Stack Dev(MERN) | Tech Explorer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=BBuilding+cool+apps+with+MERN+%F0%9F%92%BB;Creating+ML+solutions+%F0%9F%A7%A0;100%2B+Days+of+Tech+Content+%F0%9F%93%B1" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Crafting+scalable+web+apps+%F0%9F%9A%80;Exploring+FPGA+and+DSP+projects+%F0%9F%94%8D;Solving+complex+problems+with+code+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%8C%9F;Learning+something+new+every+day+%F0%9F%93%9A" />
+
 <p align="center">
   <a href="https://www.instagram.com/suresh_g_003/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
