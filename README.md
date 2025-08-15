@@ -53,7 +53,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,javascript,python,git,vscode,firebase,Cloudinary" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,javascript,python,git,vscode,firebase,java" />
 </p>
 
 ---
