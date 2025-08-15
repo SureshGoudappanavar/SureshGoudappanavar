@@ -4,31 +4,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=BBuilding+cool+apps+with+MERN+%F0%9F%92%BB;Creating+ML+solutions+%F0%9F%A7%A0;100%2B+Days+of+Tech+Content+%F0%9F%93%B1" />
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/rahul__mirji/" target="_blank">
+  <a href="https://www.instagram.com/suresh_g_003/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mirjirahul" target="_blank">
+  <a href="https://twitter.com/SureshGoud78341" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/rahulmirji" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
 
 ---
 
-### 🔥 Meet rahul.js
+### 🔥 Meet Suresh.js
 
-js
-const rahul = {
-  name: "Rahul Mirji",
-  role: ["Full-Stack Developer", "ML Enthusiast", "Tech Content Creator"],
-  tools: ["MERN", "Python", "Jetson Nano", "GCP"],
-  currentFocus: " Building QuikAid App 🚑",
-  learning: [" Machine Learning", "DSA in Java", "MERN Stack"],
-  funFact: "I've been posting DAILY Tech reels on Instagram for 100+ days 🔥"
+## 🔥 Meet `suresh.json`
+
+```jsonc
+{
+  "name": "🚀 Suresh Goudappanavar",
+  "role": ["💻 Full-Stack Developer", "⚡ Tech Enthusiast", "🎯 Lifelong Learner"],
+  "currentFocus": "📚 Learning new Technologies 🚑",
+  "learning": [
+    "🛠️ DSA in Java",
+    "🌐 MERN Stack",
+  ],
 }
+
+
 
 
 ---
