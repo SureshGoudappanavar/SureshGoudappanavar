@@ -59,29 +59,17 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 *3st Place* – National level Hackathon (Argument AI) (2025)  
-- 🥇 *1st Place* – ISTE App Dev Contest (2025)  
-- 💡 100+ days of daily tech content on Instagram  
-- 🤖 Built a real-time ML project with *Jetson Nano*  
-- 🚀 Contributing to the dev community via open-source & videos  
-
----
-
 ### 🌐 Online Presence
 
 <p align="center">
-  <a href="https://twitter.com/mirjirahul" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rahul-mirji-7764551ba" target="_blank">
+
+  <a href="www.linkedin.com/in/suresh-goudappanavar-5ba0b0259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/rahulmirji07" target="_blank">
+  <a href="https://www.leetcode.com/sureshpg003" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:devprahulmirji@gmail.com">
+  <a href="mailto:sureshpg003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -91,8 +79,7 @@
 ### ✨ Let's Build Together
 
 > 💬 Looking to *collab* on MERN apps, or content ideas?  
-> 📩 DMs are open. Email me: devprahulmirji@gmail.com  
-> 🌍 Projects → [github.com/RahulMirji](https://github.com/RahulMirji)
+> 🌍 Projects → [github.com/SureshGoudappanavar]([https://github.com/](https://github.com/SureshGoudappanavar))
 
 ---
 
