@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Suresh Goudappanavar– Full Stack Dev(MERN) | Tech Explorer</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=%20Solving+real-world+problems+with+tech+%F0%9F%94%A5;Turning+ideas+into+reality+%F0%9F%8C%9F;Learning+something+new+every+day+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=%20SoSolving+real-world+problems+with+tech+%F0%9F%94%A5;Turning+ideas+into+reality+%F0%9F%8C%9F;Learning+something+new+every+day+%F0%9F%93%9A" />
 
 
 
