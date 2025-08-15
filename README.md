@@ -86,5 +86,6 @@
 <p align="center"><b>📍 Bengaluru, India | #NeverStopBuilding</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulmirji&label=Profile%20Views&color=blueviolet&style=flat-square" alt="rahulmirji" />
+  <img src="https://komarev.com/ghpvc/?username=SureshGoudappanavar&label=Profile%20Views&color=blueviolet&style=flat-square" alt="SureshGoudappanavar" />
 </p>
+
